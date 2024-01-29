@@ -1,2 +1,1 @@
-# example-repository
-An example repository
+Example comment
